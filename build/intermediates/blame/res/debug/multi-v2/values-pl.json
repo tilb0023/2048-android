@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pl\\values-pl.xml",
+            "map": [
+                {
+                    "source": "C:\\hbo-ict\\code\\jaar2\\2048-android\\res\\values-pl\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,6",
+                        "startColumns": "4,4,4,1",
+                        "startOffsets": "102,59,158,238",
+                        "endColumns": "54,41,81,100",
+                        "endOffsets": "152,96,235,337"
+                    },
+                    "to": {
+                        "startLines": "2,3,9,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "105,160,520,602",
+                        "endColumns": "54,41,81,103",
+                        "endOffsets": "155,197,597,701"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\marle\\.gradle\\caches\\transforms-1\\files-1.1\\ckchangelog-legacy-dialog-2.0.0-SNAPSHOT.aar\\c022226dc74c43a0ed51388566ccac74\\res\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,166,217,273,327",
+                        "endColumns": "60,50,55,53,95",
+                        "endOffsets": "161,212,268,322,418"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "202,263,314,370,424",
+                        "endColumns": "60,50,55,53,95",
+                        "endOffsets": "258,309,365,419,515"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sl\\values-sl.xml",
+            "map": [
+                {
+                    "source": "C:\\hbo-ict\\code\\jaar2\\2048-android\\res\\values-sl\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "102,59,158,249",
+                        "endColumns": "54,41,89,97",
+                        "endOffsets": "152,96,243,342"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,110,152,242",
+                        "endColumns": "54,41,89,97",
+                        "endOffsets": "105,147,237,335"
+                    }
+                }
+            ]
+        }
+    ]
+}

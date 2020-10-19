@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_2048.png.flat",
+        "source": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_2048.png"
+    },
+    {
+        "merged": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\intermediates\\res\\merged\\debug\\raw_changelog_master.xml.flat",
+        "source": "C:\\hbo-ict\\code\\jaar2\\2048-android\\res\\raw\\changelog_master.xml"
+    },
+    {
+        "merged": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_2048.png.flat",
+        "source": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_2048.png"
+    },
+    {
+        "merged": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_2048.png.flat",
+        "source": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_2048.png"
+    },
+    {
+        "merged": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_2048.png.flat",
+        "source": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_2048.png"
+    },
+    {
+        "merged": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_2048.png.flat",
+        "source": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_2048.png"
+    },
+    {
+        "merged": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\intermediates\\res\\merged\\debug\\raw_changelog.xml.flat",
+        "source": "C:\\Users\\marle\\.gradle\\caches\\transforms-1\\files-1.1\\ckchangelog-core-2.0.0-SNAPSHOT.aar\\aa389b0e9b551e6df75b1b793b81c195\\res\\raw\\changelog.xml"
+    },
+    {
+        "merged": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\hbo-ict\\code\\jaar2\\2048-android\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\hbo-ict\\code\\jaar2\\2048-android\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_2048.xml.flat",
+        "source": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_2048.xml"
+    },
+    {
+        "merged": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_2048.png.flat",
+        "source": "C:\\hbo-ict\\code\\jaar2\\2048-android\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_2048.png"
+    }
+]

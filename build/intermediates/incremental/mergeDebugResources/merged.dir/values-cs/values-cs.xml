@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="action_settings">Nastavení</string>
+    <string name="app_name">2048</string>
+    <string name="changelog_full_title">Seznam změn</string>
+    <string name="changelog_ok_button">OK</string>
+    <string name="changelog_show_full">Více…</string>
+    <string name="changelog_title">Co je nové</string>
+    <string name="changelog_version_format">Verze <ns1:g id="version_name">%s</ns1:g></string>
+    <string name="press_back_again_to_exit">Pro odchod stisknětě znovu tlačítko zpět</string>
+    <string name="toggle_fullscreen">Dlohým kliknutím přepnete na celou obrazovku</string>
+</resources>
