@@ -21,3 +21,13 @@ android:
 
 script:
   - chmod +x ./gradlew build.gradle
+
+deploy:
+  provider: releases
+
+  file: "/build/outputs/apk/release/2048-android-release.apk"
+  skip_cleanup: true
+  api_key: $GITHUB_TOKEN
+  on:
+    branch: master
+    tags: true
