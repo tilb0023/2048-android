@@ -1,33 +1,29 @@
 language: android
-
 jdk:
-  - oraclejdk8
-
+- oraclejdk8
 android:
   components:
-    - tools
-    - platform-tools
-    - tools
-    - build-tools-28.0.3
-    - android-28
-
-    - extra-android-support
-    - extra-android-m2repository
-
+  - tools
+  - platform-tools
+  - tools
+  - build-tools-28.0.3
+  - android-28
+  - extra-android-support
+  - extra-android-m2repository
   licenses:
-    - 'android-sdk-license-.+'
-    - 'android-sdk-preview-license-.+'
-    - '-.+'
-
+  - android-sdk-license-.+
+  - android-sdk-preview-license-.+
+  - "-.+"
 script:
-  - chmod +x ./gradlew build.gradle
-
+- chmod +x ./gradlew build.gradle
 deploy:
   provider: releases
-
-  file: "/build/outputs/apk/release/2048-android-release.apk"
-  skip_cleanup: true
-  api_key: $GITHUB_TOKEN
+  api_key:
+    secure: EDTxA82kEpcJor4Fem3IuemMVQ91jLdrT1HiHEx+zhwYcWP6O12zayC78EJ/kYT/nkCrVweZ6/VvM8eDin5yC4s6pZQAIfKExpADYUZbzEjc4+Zv9GUzRQl2s0q8cGnm9b7f7s3NOloidoF1+jOarCNlOsr/zlJYp5qKIKbPU0hha2a00oPY4NZPO8xW2Jq8N4ESlBEtcQEHrjcivfpOrq7GwPOWNoSGcmv4nrEQ8jwwRxQVa6zEdRgVakqlriBXH2P3QcewckJ/5DhtK12en3b6p5qs/w8HIBLKB1i+dithCDNx8RXGaR5JVzEWO+qQ13zorX4pzdBqRr74JpETuTcDoWL/kjqvMmWXJ+jN01QO/qnD2YIGnyhDoPk9aZE5uRkqJupK466T4D653VxvpBp2qL9pVuSvW5zZ5/n3u2QJkGgyf5suFsk8tWD6Bk16NpJcq70vPJvXf/mtweQSOfq5rYUxSwqAdywyvY0COf0ORwHEopcGXcWuEqUam2Cs0+rSwK+Py8CvnzDiLgkMP3pn7J1q6PKut0bXTaVjqxAEkooiAV0kJx1kJxJdeJt24nLO0JcJWjnTOAf7b9Xx3C26nWgfDunYsiGHcNcjknLGaq+2MNXjxL15aaKb98GsB2zXaqwVsGQfectgJjVjckLvHo+Qr77tzIKn1t2GyEg=
+  file: '/home/travis/build/tilb0023/2048-android/build/outputs/apk/release/*'
+  file_glob: true
+  overwrite: true
   on:
-    branch: master
+    repo: tilb0023/2048-android
     tags: true
+  skip_cleanup: 'true'
