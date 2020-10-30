@@ -65,11 +65,12 @@ android {
         testLogging {
             events 'passed', 'skipped', 'failed', 'standardOut', 'standardError'
         }
+    }
 
     lintOptions {
         textReport = true
-        }
     }
+
 }
 
 dependencies {
