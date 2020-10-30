@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Oct 05 15:52:19 CEST 2020
+#Thu Oct 29 15:44:15 CET 2020
 5.base=C\:\\hbo-ict\\code\\jaar2\\2048-android\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
 22.path=2048/js/game_manager.js
 32.set=ASSET
